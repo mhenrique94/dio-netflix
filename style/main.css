@@ -47,7 +47,7 @@ main nav a:hover{
 
 .letreiro{
     font-size: 16;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('/img/bg_dexter.jpg');
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('./img/bg_dexter.jpg');
     background-size: cover;
     height: 450px;
     display: flex;
