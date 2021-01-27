@@ -8,7 +8,8 @@
     padding: 0;
     box-sizing: border-box;
     /* aqui limita o tamanho da caixa para que o elemento de dentro não a estique */
-
+    text-decoration: none;
+    color: whitesmoke;
 }
 
 body{
@@ -135,11 +136,13 @@ main nav a:hover{
 
 .botao i{
     margin-right: 8px;
+    color: var(--preta);
 
 }
 
 .botao2 i{
     margin-right: 8px;
+    color: var(--preta);
 
 }
 
@@ -210,8 +213,22 @@ main nav a:hover{
     
 }
 
-/* .icons i{
-    display: none;
-} */
+.github{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    color: whitesmoke;
+    font-size: 16px;
+    padding-top: 25px;
+    align-items: flex-start;
+    justify-content: space-between;
+    
+}
 
+.github i{
+    color: whitesmoke;
+    font-size: 36px;
+    
+    
+}
 

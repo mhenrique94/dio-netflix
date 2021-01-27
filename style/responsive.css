@@ -1,4 +1,8 @@
 @media screen and (max-width: 800px){
+   .letreiro{
+       height: 22rem;
+   }
+   
     .letreiro .container{
         display:flex;
         flex-direction: column;
@@ -43,6 +47,17 @@
         font-size: 38px;
         margin-right: 0;
         margin-left: 0;
+    }
+
+    .github{
+    
+        margin-left: 20px;
+        font-size: 12px;
+        padding-top: 10px;
+    }
+    
+    .github i{
+        font-size: 15px;
     }
 
 }
@@ -111,4 +126,3 @@
         width: 100px;
     }
 }
-
