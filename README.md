@@ -8,7 +8,8 @@ Recrie a interface do principal site de streaming mundial utilizando tecnologias
 [VISITE A PÁGINA DO PROJETO](https://mhenrique94.github.io/dio-netflix/)
 
 <a href="https://mhenrique94.github.io/dio-netflix/">
-    <img src="https://mhenrique94.github.io/dio-netflix/raw/main/img/print.JPG" alt="projeto netflix"/></a>
+    <img src="https://mhenrique94.github.io/dio-netflix/raw/main/img/print.jpg" alt="projeto netflix"/>
+</a>
 
 
 [Visite também a página principal do meu perfil.](https://mhenrique94.github.io/)
